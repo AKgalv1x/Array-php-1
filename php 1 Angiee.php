@@ -1,12 +1,12 @@
 <?php
-//echo "Bienvenido a utlies Eco S.A";
+//echo "Bienvenido a Academia de Idiomas AK";
 	
 	$idiomas = array("Ingles", "portugues", "japones, "aleman", "turco", "español");
 	$idiomas[]= "frances";
 	//	print_r($idiomas);
 
 
-// $nombres = "Angiee :P";
+// $nombres = "Angiee :3";
  //echo $nombres
 	
 //	unset ($nombres);
